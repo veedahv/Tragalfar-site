@@ -73,14 +73,7 @@ a {
     height: 120px;
 }
 
-.btn-learn {
-    margin: 30px auto;
-    border: 1px solid #458FF6;
-    color: #458FF6;
-    border-radius: 50px;
-    padding: 8px 15px
-}
-
+.btn-learn,
 .btn-view {
     margin: 30px auto;
     border: 1px solid #458FF6;
@@ -92,6 +85,10 @@ a {
 footer {
     background-color: #458FF6;
     color: #ffffff;
+}
+
+.footer-ul-head {
+    font-size: 20px;
 }
 
 footer a {
